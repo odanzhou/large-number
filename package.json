@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/odanzhou/large-number/issues"
   },
-  "homepage": "https://github.com/odanzhou/large-number#readme"
+  "homepage": "https://github.com/odanzhou/large-number#readme",
+  "devDependencies": {
+    "webpack": "4.34.0",
+    "webpack-cli": "3.3.4"
+  }
 }
