@@ -1,11 +1,12 @@
 {
-  "name": "large-number",
-  "version": "1.0.0",
-  "description": "",
+  "name": "odan-large-number",
+  "version": "1.0.2",
+  "description": "large number lib",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "build": "webpack",
+    "prepublishOnly": "webpack"
   },
   "repository": {
     "type": "git",
